@@ -44,7 +44,7 @@ function ResponsiveSlider() {
             <div className="slider-container">
                 <Slider {...settings}>
                     <div className={s.slide}>
-                        <img src="src/assets/bmw-m-series-seo-overview-ms-04.jpg" alt="" />
+                        <img src="https://www.bmw.tm/content/dam/bmw/common/all-models/m-series/series-overview/bmw-m-series-seo-overview-ms-04.jpg" alt="" />
                     </div>
                     <div className={s.slide}>
                         <img src="src/assets/b0ce6840700b7ee93dc7e31f8602e27fb6b1946a.jpg" alt="" />
