@@ -47,25 +47,25 @@ function ResponsiveSlider() {
                         <img src="https://www.bmw.tm/content/dam/bmw/common/all-models/m-series/series-overview/bmw-m-series-seo-overview-ms-04.jpg" alt="" />
                     </div>
                     <div className={s.slide}>
-                        <img src="src/assets/b0ce6840700b7ee93dc7e31f8602e27fb6b1946a.jpg" alt="" />
+                        <img src="https://motor.ru/imgs/2022/01/07/20/5154800/b0ce6840700b7ee93dc7e31f8602e27fb6b1946a.jpg" alt="" />
                     </div>
                     <div className={s.slide}>
-                        <img src="src/assets/5f92fff9c742e80001d7a1f9.jpeg" alt="" />
+                        <img src="https://cdn.kodixauto.ru/media/image/5f92fff9c742e80001d7a1f9" alt="" />
                     </div>
                     <div className={s.slide}>
-                        <img src="src/assets/3ff05de024ae49f7b8e296e506f8abda.jpg" alt="" />
+                        <img src="https://arendacar.ru/wp-content/uploads/2021/10/3ff05de024ae49f7b8e296e506f8abda.jpg" alt="" />
                     </div>
                     <div className={s.slide}>
-                        <img src="src/assets/6014060c8d2b4a0001a8b3fe.png" alt="" />
+                        <img src="https://kolesa-uploads.ru/-/c5702e32-e0b5-4036-9d18-a7b7c052ef1e/bmw-i7-front1-mini.jpg" alt="" />
                     </div>
                     <div className={s.slide}>
-                        <img src="src/assets/Article_174737_860_575.jpg" alt="" />
+                        <img src="https://autoreview.ru/images/Article/1747/Article_174737_860_575.jpg" alt="" />
                     </div>
                     <div className={s.slide}>
-                        <img src="src/assets/bmw_x2_764839.webp" alt="" />
+                        <img src="https://3dnews.ru/assets/external/illustrations/2023/04/18/1085270/bmw-i7-m70-xdriv_01.jpg" alt="" />
                     </div>
                     <div className={s.slide}>
-                        <img src="src/assets/bmw-i7-m70-xdriv_01.jpg" alt="" />
+                        <img src="https://s.auto.drom.ru/i24214/c/photos/fullsize/bmw/x2/bmw_x2_764839.jpg" alt="" />
                     </div>
                 </Slider>
             </div>
